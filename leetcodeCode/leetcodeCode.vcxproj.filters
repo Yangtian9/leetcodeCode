@@ -27,5 +27,11 @@
     <ClCompile Include="1016.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1330.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2441.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
